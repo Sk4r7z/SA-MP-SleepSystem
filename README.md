@@ -1,4 +1,4 @@
-# SA-MP
+# Sleep System
 Scripts for GTA: SA-MP
 
 The Script is a system designed to make the player feel sleepy. If he does not sleep will end up sleeping on the street (or wherever you are), the screen will flash convey the effect of the character's eyes flickering caused by fatigue.
