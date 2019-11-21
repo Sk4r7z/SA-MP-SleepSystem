@@ -15,3 +15,12 @@ Command: /sleep - for when the player is sleepy.
 
 
 FS needs: https://github.com/Southclaws/progress2
+
+
+The script uses a progressbar to show the level of sleep that the player has, as shown in print.
+
+ <img src="http://i.imgur.com/W4Gbrq2.png" alt="Girl in a jacket"> 
+
+When the player writes the command / sleep, the player will appear lying on a bed.
+
+ <img src="http://i.imgur.com/PmrXlkp.png" alt="Girl in a jacket">
