@@ -14,7 +14,7 @@ If the character is generally put to sleep, causing the control command '/ sleep
 Command: /sleep - for when the player is sleepy.
 
 
-FS needs: https://github.com/Southclaws/progress2
+FS needs: https://pastebin.com/KkjEpYTn
 
 
 The script uses a progressbar to show the level of sleep that the player has, as shown in print.
